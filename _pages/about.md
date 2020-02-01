@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kangkook Jee's academic personal websites"
+title: "Kangkook Jee's academic website"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -25,5 +25,5 @@ I have several RA openings available. I'm looking for Ph.D. students and other t
 News
 ======
 
-* A demo paper is accepted at ICDE 20. Kudos to [Peng Gao]() for the hard work!
-* A paper is accepted at ICDE 20. Kudos to [Jiaping Gu]() for the hard work!
+* `Jan 20, 2020` A demo paper is accepted at ICDE 20. Kudos to [Peng Gao]() for the hard work!
+* `Jan 20, 2020` A paper is accepted at ICDE 20. Kudos to [Jiaping Gu]() for the hard work!
