@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Kangkook Jee"
   avatar           : "profile.jpg"
-  bio              : "Assistant professor"
+  bio              : "Assistant professor, Computer security researcher"
   location         : "Richardson, TX"
-  employer         : Computer Science, The university of Texas at Dallas
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "The university of Texas at Dallas"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=x-ApqMUAAAAJ&hl=en"
   email            : kangkook.jee@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "aixer"
   vine             :
   weibo            :
   xing             :
