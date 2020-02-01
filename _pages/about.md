@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kangkoko Jee's academic personal websites"
+title: "Kangkook Jee's academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-About
-======
 
-I am an assistant professor at Computer Science department at University of Texas at Dallas. Previously, I was a researcher in the Computer Security Department at NEC Labs America in Princeton, NJ. I received my Ph.D. in Computer Science from Columbia University. My advisor was Prof. Angelos D. Keromytis. Prior to my graduate study, I spent five years from industry working as a system engineer at IBM Korea.
+I am an assistant professor at [Computer Science department](https://www.cs.utdallas.edu) at [University of Texas at Dallas](https://www.utdallas.edu). Previously, I was a researcher in the Computer Security Department at [NEC Labs America]() in Princeton, NJ. I received my Ph.D. in Computer Science from [Columbia University](). My advisor was Prof. [Angelos D. Keromytis](). Prior to my graduate study, I spent five years from industry working as a system engineer at IBM Korea.
 
 Research Interest
 ------------------
@@ -27,4 +25,5 @@ I have several RA openings available. I'm looking for Ph.D. students and other t
 News
 ======
 
-A paper is accepted at ICDE 20. 
+* A demo paper is accepted at ICDE 20. Kudos to [Peng Gao]() for the hard work!
+* A paper is accepted at ICDE 20. Kudos to [Jiaping Gu]() for the hard work!
