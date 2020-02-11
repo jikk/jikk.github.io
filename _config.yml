@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kangkook Jee / Research Home"
+title                    : "Kangkook Jee | Research Home"
 title_separator          : "-"
 name                     : &name "Kangkook Jee"
 description              : &description "personal description"
